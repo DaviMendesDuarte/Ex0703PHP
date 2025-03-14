@@ -8,6 +8,6 @@
     }
     else
     {
-        echo "O número ".$n1." não é maior que o número ".$n2;
+        echo "O número ".$n2." é maior que o número ".$n1;
     }
 ?>
